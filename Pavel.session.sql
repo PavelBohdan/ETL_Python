@@ -1,0 +1,1 @@
+SELECT * FROM oscarval_sql_course.city_house_prices
